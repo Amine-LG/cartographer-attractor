@@ -1,0 +1,7 @@
+condition,completed_responses,input_tokens,output_tokens,coverage,note
+Luna / original Codex,200,1107200,2238,200/200,Aggregated from the recorded successful raw runs
+Luna / container initial,20,35640,221,20/20,Aggregated from the recorded successful raw runs
+Luna / container prospective extension 1,80,142560,884,80/80,Also present per response in luna_container_extension_80.csv
+Luna / container prospective extension 2,53,94446,579,53/53,Also present per valid response in luna_container_final_extension.csv
+Luna / container slow completion,47,83754,519,47/47,Also present per response in luna_container_completion_47.csv
+Terra / reduced-context container,50,164850,497,50/50,Per-response usage and complete event streams in data/models/logged/terra_container files

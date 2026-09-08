@@ -1,0 +1,2 @@
+collection,session_id,prompt,raw_answer,valid,returncode,started_utc,completed_utc,failure
+literary_title_10_20260906,01a073d0-50ba-78e1-8f42-28e4a35d30da,Invent a literary novel title. Title only.,,False,1,2026-09-05T23:03:47.023299+00:00,2026-09-05T23:03:49.832399+00:00,Usage limit

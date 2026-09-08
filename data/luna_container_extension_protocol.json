@@ -1,0 +1,30 @@
+{
+  "created_utc": "2026-09-07T20:48:04.713678+00:00",
+  "purpose": "Extend the existing 20 completed reduced-context Luna responses to 100 completed responses if all 80 prospective calls succeed.",
+  "prompt": "Invent a literary novel title. Title only.",
+  "prompt_utf8_bytes": 42,
+  "prompt_sha256": "247f1546427aea7db0431b585095909e2c36f25a7f58749d25bd287f6dc5fa49",
+  "model": "gpt-5.6-luna",
+  "reasoning_effort": "low",
+  "personality": "none",
+  "container_image": "sha256:a1fad9a7cb0d451c39c6c9110053cfcb8441f65a154ab8908db6d3bdc88b5f68",
+  "prior_attempts": 21,
+  "prior_completed": 20,
+  "planned_new_subject_calls": 80,
+  "target_completed": 100,
+  "fresh_ephemeral_session_per_call": true,
+  "sequential": true,
+  "minimum_completion_to_next_launch_gap_seconds": 1.1,
+  "retries": 0,
+  "stop_rule": "Stop on the first invalid subject call; do not replace it.",
+  "workspace": "empty /w in a fresh --rm container",
+  "tools_and_search": "disabled by the pinned validated container configuration",
+  "analysis_endpoint": "case-insensitive cartograph lexical root; exact strings retained",
+  "frozen_input_files": {
+    "entry.py": "a702ad28b28f44d1773a1b943ae6687297d157c887bd85cd3c5a39bff8b0162f",
+    "instructions_B.txt": "88056f48f5f36543d025e6d47385a5236534f84a0d0015f410051fa04f9899ca",
+    "container_engine.py": "036168bf2738c8f0d3b04863671d0254098bfb468ad345a7ef6307a0881d0a0a",
+    "original_container_record.json": "7fac25a30e7b4afc8b116cb69b60083226e277d8ac2109791be096b3c0c15c86",
+    "prior_public_ledger.csv": "7b196264ece405f5c4d684287c5ba2d1fdbb55980ace5ccff4f5308871d5ce0c"
+  }
+}

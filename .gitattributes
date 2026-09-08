@@ -1,0 +1,18 @@
+# Preserve recorded data bytes across checkout platforms.
+data/*.csv -text
+data/*.txt -text
+data/models/**/*.csv -text
+data/models/**/*.txt -text
+data/models/logged/terra_container*.json -text
+data/models/logged/terra_container*.jsonl -text
+data/models/logged/terra_container*.sha256 -text
+data/models/logged/terra_container_entry.py -text
+analysis/run_terra_container.py -text
+analysis/continue_terra_container.py -text
+data/context/* -text
+data/luna_container_extension_protocol.json -text
+data/luna_container_extension_protocol.sha256 -text
+data/luna_container_final_protocol.json -text
+data/luna_container_final_protocol.sha256 -text
+data/luna_container_completion_protocol.json -text
+data/luna_container_completion_protocol.sha256 -text

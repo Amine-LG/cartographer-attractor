@@ -1,0 +1,169 @@
+{
+  "created_utc": "2026-09-08T14:59:46.771033+00:00",
+  "reason": "Host controller stopped between completed attempt 37 and unlaunched attempt 38. User requested continuation. Retained Docker lifecycle events account for 37 starts; no failed or unfinished subject attempt is replaced.",
+  "prior_completed": 37,
+  "remaining_attempts": 13,
+  "cumulative_attempt_ceiling": 50,
+  "model": "gpt-5.6-terra",
+  "prompt": "Invent a literary novel title. Title only.",
+  "image": "sha256:a1fad9a7cb0d451c39c6c9110053cfcb8441f65a154ab8908db6d3bdc88b5f68",
+  "gap_seconds": 12.0,
+  "retry_count": 0,
+  "context_or_subject_configuration_changes": "None; import and use the frozen original runner, launcher, instruction file, Docker image, and parser.",
+  "stop_rule": "Stop at first failure or limit; never retry or replace an attempt.",
+  "original_protocol_sha256": "2cf04163ed539c4acce6cb17673e30e211739778995f8bbf91465d94990fa1c6",
+  "original_runner_sha256": "6acf3900c15728bea57dce20556b23703801bcd9ba44d77175ff530b0deffafd",
+  "continuation_runner_sha256": "9e2f03a31ac71ca86b54edfaddd7c9699a1dced2a739c04ed2e9b5f4008af78e",
+  "prior_raw_bytes": 59867,
+  "prior_raw_sha256": "9251a798ba92033625fcc3b4f30958d622502889daac24dfbcaf84ce9ee16600",
+  "retained_docker_starts": [
+    {
+      "time": 1788870448,
+      "name": "terra-d265b0dde3c5"
+    },
+    {
+      "time": 1788870466,
+      "name": "terra-5236d36d5f08"
+    },
+    {
+      "time": 1788870484,
+      "name": "terra-aeadb6d5c5d6"
+    },
+    {
+      "time": 1788870502,
+      "name": "terra-04a1b1e774e2"
+    },
+    {
+      "time": 1788870519,
+      "name": "terra-4ded18aa3b1a"
+    },
+    {
+      "time": 1788870538,
+      "name": "terra-ba37d65cc3e9"
+    },
+    {
+      "time": 1788870555,
+      "name": "terra-57ed89fe485d"
+    },
+    {
+      "time": 1788870574,
+      "name": "terra-c4042fd7095f"
+    },
+    {
+      "time": 1788870592,
+      "name": "terra-71c59122222d"
+    },
+    {
+      "time": 1788870610,
+      "name": "terra-f026742a00a2"
+    },
+    {
+      "time": 1788870627,
+      "name": "terra-08eb4d6218ff"
+    },
+    {
+      "time": 1788870646,
+      "name": "terra-f93d34c3ae95"
+    },
+    {
+      "time": 1788870664,
+      "name": "terra-ac2a6d4e5453"
+    },
+    {
+      "time": 1788870682,
+      "name": "terra-37fca1998cbd"
+    },
+    {
+      "time": 1788870699,
+      "name": "terra-8a92bd3beb0b"
+    },
+    {
+      "time": 1788870718,
+      "name": "terra-aef12255c694"
+    },
+    {
+      "time": 1788870735,
+      "name": "terra-d36cb5c3c338"
+    },
+    {
+      "time": 1788870754,
+      "name": "terra-14bb993fc843"
+    },
+    {
+      "time": 1788870773,
+      "name": "terra-03fab366ddbf"
+    },
+    {
+      "time": 1788870791,
+      "name": "terra-91a7ddf2dde5"
+    },
+    {
+      "time": 1788870809,
+      "name": "terra-ad5168ea6307"
+    },
+    {
+      "time": 1788870827,
+      "name": "terra-8b3b7560e427"
+    },
+    {
+      "time": 1788870844,
+      "name": "terra-36b5542f3603"
+    },
+    {
+      "time": 1788870862,
+      "name": "terra-f38fb81f74d9"
+    },
+    {
+      "time": 1788870881,
+      "name": "terra-ff249905e984"
+    },
+    {
+      "time": 1788870900,
+      "name": "terra-4a6da81af0da"
+    },
+    {
+      "time": 1788870917,
+      "name": "terra-f2e29073498c"
+    },
+    {
+      "time": 1788870936,
+      "name": "terra-f29093255c49"
+    },
+    {
+      "time": 1788870955,
+      "name": "terra-552e5d934ff7"
+    },
+    {
+      "time": 1788870973,
+      "name": "terra-912b912ef83e"
+    },
+    {
+      "time": 1788870990,
+      "name": "terra-0c1cdd8bbda1"
+    },
+    {
+      "time": 1788871008,
+      "name": "terra-5c2ba127b1cf"
+    },
+    {
+      "time": 1788871026,
+      "name": "terra-e517a6913d33"
+    },
+    {
+      "time": 1788871044,
+      "name": "terra-16633aaa4b58"
+    },
+    {
+      "time": 1788871061,
+      "name": "terra-622af45d759d"
+    },
+    {
+      "time": 1788871079,
+      "name": "terra-e7131a566eea"
+    },
+    {
+      "time": 1788871097,
+      "name": "terra-fde112abe17f"
+    }
+  ]
+}

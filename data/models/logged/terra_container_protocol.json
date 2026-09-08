@@ -1,0 +1,40 @@
+{
+  "created_utc": "2026-09-08T12:27:06.107777+00:00",
+  "purpose": "Prospective 50-session Terra comparison under the reduced-context container protocol.",
+  "prompt": "Invent a literary novel title. Title only.",
+  "prompt_utf8_bytes": 42,
+  "prompt_sha256": "247f1546427aea7db0431b585095909e2c36f25a7f58749d25bd287f6dc5fa49",
+  "model": "gpt-5.6-terra",
+  "reasoning_effort": "low",
+  "personality": "none",
+  "target_completed_responses": 50,
+  "hard_attempt_ceiling": 50,
+  "sequential": true,
+  "fresh_ephemeral_session_per_attempt": true,
+  "minimum_completion_to_next_launch_gap_seconds": 12.0,
+  "retries": 0,
+  "allowed_pre_turn_warnings": [
+    "Under-development features enabled: skip_host_skill_discovery. Under-development features are incomplete and may behave unpredictably. To suppress this warning, set `suppress_unstable_features_warning = true` in /home/u/.codex/config.toml.",
+    "Code Mode is unavailable because failed to spawn code-mode host /usr/local/bin/codex-code-mode-host: host executable was not found. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."
+  ],
+  "stop_rule": "Stop at the first failed/invalid call, account/rate/usage limit, unexpected event, or duplicate session. Failed attempts are retained and not replaced.",
+  "endpoint": "Case-insensitive literal cartograph* lexical root in the complete final answer.",
+  "secondary": [
+    "Cartographer count",
+    "Cartography count",
+    "unique and modal exact title"
+  ],
+  "workspace": "Empty /w in a fresh read-only non-root container; research files are not mounted.",
+  "authentication": "Existing ChatGPT login mounted read-only; credential content and host path are never logged.",
+  "container_image_id": "sha256:a1fad9a7cb0d451c39c6c9110053cfcb8441f65a154ab8908db6d3bdc88b5f68",
+  "base_image": "alpine@sha256:14358309a308569c32bdc37e2e0e9694be33a9d99e68afb0f5ff33cc1f695dce",
+  "source_hashes": {
+    "runner": "6acf3900c15728bea57dce20556b23703801bcd9ba44d77175ff530b0deffafd",
+    "entry.py": "77a24ebf3e90af2debc770fe1216eb16f1166b6a8e81032e84448a50f14105c3",
+    "instructions.txt": "88056f48f5f36543d025e6d47385a5236534f84a0d0015f410051fa04f9899ca",
+    "codex_binary": "56ef98ab4032d317ab26e9b5e5a175650717351edb16ed9cde0cb6d1734d62da",
+    "audit": "a425f5259630b3cbe665d230c8c66690f591183d3bda17c0b29e96da764080bd"
+  },
+  "comparison_note": "Same Docker image, resource limits, tmpfs ownership/modes, read-only original auth mount, environment and subject flags as reduced-context Luna. The original entry.py is mounted at the same container path with only two model identifiers changed from gpt-5.6-luna to gpt-5.6-terra. Date may differ; the local preview is checked against the original shape.",
+  "context_drift": "Terra's local preview includes two generic collaboration messages; a non-generative Luna preview using the same Docker setup has the original three messages. This difference accompanies model selection despite multi_agent=false. All current messages are preserved here; model-specific wrapper equivalence is not assumed."
+}

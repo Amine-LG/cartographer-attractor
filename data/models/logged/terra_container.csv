@@ -1,0 +1,51 @@
+sample,session_id,started_utc,completed_utc,prompt,raw_answer,cartograph,input_tokens,cached_input_tokens,output_tokens
+1,01a080fc-d97d-73b2-8648-a7b52f71ffc1,2026-09-08T12:27:28.184154+00:00,2026-09-08T12:27:34.282601+00:00,Invent a literary novel title. Title only.,The Orchard of Unfinished Names,False,3297,1792,10
+2,01a080fd-1f39-7473-b7a6-3bc7a5092d1b,2026-09-08T12:27:46.294424+00:00,2026-09-08T12:27:51.785834+00:00,Invent a literary novel title. Title only.,The Orchard of Unsaid Things,False,3297,0,10
+3,01a080fd-62f1-7500-a41c-2eb5756bb708,2026-09-08T12:28:03.797366+00:00,2026-09-08T12:28:09.891114+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,0,10
+4,01a080fd-aa7c-7cd1-b9d5-d873185a429d,2026-09-08T12:28:21.903344+00:00,2026-09-08T12:28:27.498742+00:00,Invent a literary novel title. Title only.,The Orchard of Unfinished Names,False,3297,0,10
+5,01a080fd-ef76-7712-bf0a-d3e5f8c8fc31,2026-09-08T12:28:39.510720+00:00,2026-09-08T12:28:45.905120+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,0,10
+6,01a080fe-36b5-7770-885e-bf00de671560,2026-09-08T12:28:57.917389+00:00,2026-09-08T12:29:03.578309+00:00,Invent a literary novel title. Title only.,The Cartographer of Vanishing Rooms,True,3297,0,11
+7,01a080fe-7ca2-7772-8e76-78e2e5c7cf6a,2026-09-08T12:29:15.590368+00:00,2026-09-08T12:29:22.440508+00:00,Invent a literary novel title. Title only.,The Orchard of Unwritten Names,False,3297,0,10
+8,01a080fe-c669-75c2-8bfe-dfe2e8dab344,2026-09-08T12:29:34.452589+00:00,2026-09-08T12:29:39.748055+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,0,10
+9,01a080ff-0916-7781-9240-01fd5db05dd6,2026-09-08T12:29:51.760381+00:00,2026-09-08T12:29:58.086689+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,2816,10
+10,01a080ff-50ab-7210-9cbe-e94011228e0f,2026-09-08T12:30:10.098390+00:00,2026-09-08T12:30:15.473948+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,1792,10
+11,01a080ff-9474-7721-8ac5-b2869ec6a7eb,2026-09-08T12:30:27.485372+00:00,2026-09-08T12:30:34.030841+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,1792,10
+12,01a080ff-dd61-7052-a171-0e8f93262a47,2026-09-08T12:30:46.043188+00:00,2026-09-08T12:30:51.755279+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,2816,10
+13,01a08100-225d-73d2-850a-f0335f19905b,2026-09-08T12:31:03.767419+00:00,2026-09-08T12:31:09.895508+00:00,Invent a literary novel title. Title only.,The Orchard of Unsaid Things,False,3297,2816,10
+14,01a08100-691e-7a12-a991-13462bd00317,2026-09-08T12:31:21.907503+00:00,2026-09-08T12:31:27.337504+00:00,Invent a literary novel title. Title only.,The Orchard of Unanswered Bells,False,3297,2816,10
+15,01a08100-ae28-7333-b3d3-caf932772568,2026-09-08T12:31:39.349465+00:00,2026-09-08T12:31:45.838884+00:00,Invent a literary novel title. Title only.,The Orchard of Unfinished Names,False,3297,2816,10
+16,01a08100-f51f-7870-9a5b-9d719f56dc20,2026-09-08T12:31:57.851184+00:00,2026-09-08T12:32:02.729585+00:00,Invent a literary novel title. Title only.,The Orchard of Unfinished Names,False,3297,2816,10
+17,01a08101-375f-7643-a23c-a263e8d1c22c,2026-09-08T12:32:14.741378+00:00,2026-09-08T12:32:22.685354+00:00,Invent a literary novel title. Title only.,The Orchard of Unfinished Names,False,3297,2816,10
+18,01a08101-85a6-7bb3-ad18-c8f2bbe09c42,2026-09-08T12:32:34.697662+00:00,2026-09-08T12:32:41.473528+00:00,Invent a literary novel title. Title only.,The Orchard of Unfinished Names,False,3297,0,10
+19,01a08101-cefb-7193-b5c4-e7da45c54155,2026-09-08T12:32:53.485765+00:00,2026-09-08T12:32:59.165876+00:00,Invent a literary novel title. Title only.,The Orchard of Vanishing Names,False,3297,2816,10
+20,01a08102-13f4-7022-a26d-a0fd090f0efd,2026-09-08T12:33:11.170436+00:00,2026-09-08T12:33:17.465213+00:00,Invent a literary novel title. Title only.,The Orchard of Unfinished Names,False,3297,2816,10
+21,01a08102-5b48-7af3-9e7c-2834950df276,2026-09-08T12:33:29.477523+00:00,2026-09-08T12:33:35.089954+00:00,Invent a literary novel title. Title only.,The Cartographer of Ash,True,3297,0,9
+22,01a08102-a021-7f91-8889-e10ddcd417c0,2026-09-08T12:33:47.102274+00:00,2026-09-08T12:33:52.553144+00:00,Invent a literary novel title. Title only.,The Orchard of Unsaid Things,False,3297,0,10
+23,01a08102-e4d1-7941-b80e-af58a197efb3,2026-09-08T12:34:04.565365+00:00,2026-09-08T12:34:10.581209+00:00,Invent a literary novel title. Title only.,The Cartography of Ashes,True,3297,2816,10
+24,01a08103-2ae9-78b2-964e-dd239c7a13dc,2026-09-08T12:34:22.587291+00:00,2026-09-08T12:34:29.032975+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,0,10
+25,01a08103-7337-7112-8e3a-d8e1d666d464,2026-09-08T12:34:41.045307+00:00,2026-09-08T12:34:47.950302+00:00,Invent a literary novel title. Title only.,The Orchard of Unsaid Things,False,3297,2816,10
+26,01a08103-bd07-7cd0-a02e-d125920f7d03,2026-09-08T12:34:59.962476+00:00,2026-09-08T12:35:05.434073+00:00,Invent a literary novel title. Title only.,The Orchard of Unanswered Names,False,3297,0,10
+27,01a08104-011f-72f3-822c-88e5706ec217,2026-09-08T12:35:17.446452+00:00,2026-09-08T12:35:24.305750+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,2816,10
+28,01a08104-4ac6-7be0-b193-4f195315aba4,2026-09-08T12:35:36.317391+00:00,2026-09-08T12:35:42.801899+00:00,Invent a literary novel title. Title only.,The Orchard of Unfinished Hours,False,3297,2816,10
+29,01a08104-9322-73f2-b7b0-1b39fcaf06ca,2026-09-08T12:35:54.813369+00:00,2026-09-08T12:36:00.756630+00:00,Invent a literary novel title. Title only.,The Silence Between Tides,False,3297,2816,9
+30,01a08104-d982-7ba2-8f2e-37d1b9e1587f,2026-09-08T12:36:12.768379+00:00,2026-09-08T12:36:18.375938+00:00,Invent a literary novel title. Title only.,The Atlas of Unsaid Things,False,3297,2816,10
+31,01a08105-1df6-76b1-aa5d-5566035649ec,2026-09-08T12:36:30.387578+00:00,2026-09-08T12:36:35.985693+00:00,Invent a literary novel title. Title only.,The Orchard of Unsaid Things,False,3297,0,10
+32,01a08105-628b-74b0-b4b7-e10afcb0e2e3,2026-09-08T12:36:47.997427+00:00,2026-09-08T12:36:54.326679+00:00,Invent a literary novel title. Title only.,The Orchard of Unsaid Things,False,3297,2816,10
+33,01a08105-aad4-7682-8ca2-4fcb43cca4a8,2026-09-08T12:37:06.338519+00:00,2026-09-08T12:37:11.905539+00:00,Invent a literary novel title. Title only.,The Orchard of Unanswered Bells,False,3297,0,10
+34,01a08105-efb8-7650-9c2b-429f68417d30,2026-09-08T12:37:23.917456+00:00,2026-09-08T12:37:29.202790+00:00,Invent a literary novel title. Title only.,The Orchard of Unsaid Things,False,3297,2816,10
+35,01a08106-356a-7971-b9ff-69762a87d749,2026-09-08T12:37:41.214419+00:00,2026-09-08T12:37:47.328221+00:00,Invent a literary novel title. Title only.,The Geometry of Departures,False,3297,2816,9
+36,01a08106-7950-7e51-b79f-e6a720ffcb9c,2026-09-08T12:37:59.340428+00:00,2026-09-08T12:38:04.838611+00:00,Invent a literary novel title. Title only.,The Cartographer of Vanishing Rooms,True,3297,2816,11
+37,01a08106-bddd-7330-93c4-99b510fe4248,2026-09-08T12:38:16.850580+00:00,2026-09-08T12:38:25.201585+00:00,Invent a literary novel title. Title only.,The Orchard of Unanswered Letters,False,3297,2816,10
+38,01a08188-e0f3-7fd2-b9be-c13a133aae72,2026-09-08T15:00:25.404837+00:00,2026-09-08T15:00:30.142990+00:00,Invent a literary novel title. Title only.,The Orchard of Borrowed Hours,False,3297,0,10
+39,01a08189-2178-7e21-a55c-e8a0a64cda84,2026-09-08T15:00:42.147864+00:00,2026-09-08T15:00:47.537954+00:00,Invent a literary novel title. Title only.,The Cartographer of Vanishing Rooms,True,3297,0,11
+40,01a08189-65d5-7982-b5df-3fdf9557a2d3,2026-09-08T15:00:59.543838+00:00,2026-09-08T15:01:05.796846+00:00,Invent a literary novel title. Title only.,The Orchard of Borrowed Names,False,3297,0,10
+41,01a08189-ad16-7820-a30f-9a079ca2b364,2026-09-08T15:01:17.810377+00:00,2026-09-08T15:01:23.371745+00:00,Invent a literary novel title. Title only.,The Cartographer of Vanishing Rooms,True,3297,2816,11
+42,01a08189-f152-7d00-833b-fd0553448780,2026-09-08T15:01:35.376371+00:00,2026-09-08T15:01:41.221273+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,0,10
+43,01a0818a-3781-7822-8df6-7252852d9cf2,2026-09-08T15:01:53.233452+00:00,2026-09-08T15:02:00.003575+00:00,Invent a literary novel title. Title only.,The Orchard of Unsaid Things,False,3297,0,10
+44,01a0818a-809c-75e3-ac94-b93c09f55ace,2026-09-08T15:02:12.010649+00:00,2026-09-08T15:02:16.644074+00:00,Invent a literary novel title. Title only.,The Geometry of Ashes,False,3297,0,9
+45,01a0818a-c17a-7a31-9849-e3b8e445f924,2026-09-08T15:02:28.647846+00:00,2026-09-08T15:02:34.151013+00:00,Invent a literary novel title. Title only.,The Orchard of Unfinished Names,False,3297,2816,10
+46,01a0818b-05f3-7fa0-89b0-29334d226d35,2026-09-08T15:02:46.164370+00:00,2026-09-08T15:02:51.146208+00:00,Invent a literary novel title. Title only.,The Orchard of Unfinished Names,False,3297,2816,10
+47,01a0818b-480e-78d3-9f80-502e7d0a20e4,2026-09-08T15:03:03.160093+00:00,2026-09-08T15:03:10.489858+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,0,10
+48,01a0818b-94a6-7942-a866-ac26a80e1cc1,2026-09-08T15:03:22.503750+00:00,2026-09-08T15:03:28.340475+00:00,Invent a literary novel title. Title only.,The Geometry of Ashes,False,3297,0,9
+49,01a0818b-d9c4-7082-ad4b-c7d5ab8bf5d0,2026-09-08T15:03:40.355762+00:00,2026-09-08T15:03:45.664123+00:00,Invent a literary novel title. Title only.,The Architecture of Dust,False,3297,2816,8
+50,01a0818c-1d58-7590-8dee-bfcfa3ea88e5,2026-09-08T15:03:57.679379+00:00,2026-09-08T15:04:02.781525+00:00,Invent a literary novel title. Title only.,The Cartographer of Ashes,True,3297,0,10

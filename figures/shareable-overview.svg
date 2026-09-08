@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+<title id="title">The Cartographer Attractor — social poster</title>
+<desc id="desc">Two separate audited GPT-5.6 Luna cohorts compared with logged and manual Web observations. Non-cartograph families are post-hoc literal descriptions.</desc>
+<metadata id="study-values">{&quot;astra_codex&quot;: {&quot;heads&quot;: {&quot;Orchard&quot;: 1, &quot;Quiet Inheritance&quot;: 3, &quot;Small Inheritance&quot;: 3}, &quot;hits&quot;: 0, &quot;mode_count&quot;: 3, &quot;modes&quot;: [&quot;The Quiet Inheritance of Rain&quot;, &quot;The Small Inheritance of Rain&quot;, &quot;The Things We Buried in the Light&quot;, &quot;The Weather Inside Other Houses&quot;], &quot;n&quot;: 20, &quot;unique&quot;: 11}, &quot;claude_haiku_4_5&quot;: {&quot;heads&quot;: {&quot;Cartographer&quot;: 25, &quot;Cartography&quot;: 12, &quot;Meridian&quot;: 6, &quot;Weight&quot;: 1}, &quot;hits&quot;: 49, &quot;mode_count&quot;: 12, &quot;modes&quot;: [&quot;The Cartographer&#x27;s Daughter&quot;], &quot;n&quot;: 60, &quot;unique&quot;: 24}, &quot;claude_sonnet_5_high&quot;: {&quot;heads&quot;: {&quot;Weight&quot;: 60}, &quot;hits&quot;: 0, &quot;mode_count&quot;: 17, &quot;modes&quot;: [&quot;The Weight of Unfinished Rooms&quot;], &quot;n&quot;: 60, &quot;unique&quot;: 17}, &quot;deepseek_instant&quot;: {&quot;heads&quot;: {&quot;Atlas&quot;: 2, &quot;Bone Catalog&quot;: 1, &quot;Cartographer&quot;: 20, &quot;Cartography&quot;: 28, &quot;Dictionary&quot;: 1, &quot;Silence&quot;: 1, &quot;Unfinished Atlas&quot;: 1, &quot;Unfinished Cartography&quot;: 1, &quot;Unraveling&quot;: 2, &quot;Weight&quot;: 2}, &quot;hits&quot;: 49, &quot;mode_count&quot;: 25, &quot;modes&quot;: [&quot;The Cartography of Unspoken Things&quot;], &quot;n&quot;: 62, &quot;unique&quot;: 21}, &quot;gemini_3_5_flash_lite&quot;: {&quot;heads&quot;: {&quot;Architecture&quot;: 22, &quot;Cartography&quot;: 1, &quot;Geography&quot;: 17, &quot;Geometry&quot;: 10, &quot;Weight&quot;: 9}, &quot;hits&quot;: 1, &quot;mode_count&quot;: 9, &quot;modes&quot;: [&quot;The Architecture of Falling Water&quot;], &quot;n&quot;: 60, &quot;unique&quot;: 33}, &quot;gpt_5_6_terra_light&quot;: {&quot;heads&quot;: {&quot;Cartographer&quot;: 3, &quot;Geometry&quot;: 2, &quot;Map&quot;: 1, &quot;Museum&quot;: 1, &quot;Orchard&quot;: 12}, &quot;hits&quot;: 3, &quot;mode_count&quot;: 6, &quot;modes&quot;: [&quot;The Orchard of Unsaid Things&quot;], &quot;n&quot;: 20, &quot;unique&quot;: 12}, &quot;grok_fast&quot;: {&quot;heads&quot;: {&quot;Atlas&quot;: 1, &quot;Cartographer&quot;: 6, &quot;Cartography&quot;: 20, &quot;Geometry&quot;: 4, &quot;House&quot;: 1, &quot;House at the Edge&quot;: 1, &quot;Quiet Architecture&quot;: 3, &quot;Quiet Geometry&quot;: 1, &quot;Shadow&quot;: 1, &quot;Soft Collapse&quot;: 3, &quot;Weight&quot;: 2}, &quot;hits&quot;: 28, &quot;mode_count&quot;: 7, &quot;modes&quot;: [&quot;The Cartography of Silence&quot;], &quot;n&quot;: 51, &quot;unique&quot;: 34}, &quot;luna_codex&quot;: {&quot;heads&quot;: {&quot;Cartographer&quot;: 157, &quot;Cartography&quot;: 42, &quot;Orchard&quot;: 1}, &quot;hits&quot;: 199, &quot;mode_count&quot;: 58, &quot;modes&quot;: [&quot;The Cartographer of Vanishing Hours&quot;], &quot;n&quot;: 200, &quot;unique&quot;: 28}, &quot;luna_container&quot;: {&quot;heads&quot;: {&quot;Cartographer&quot;: 154, &quot;Cartography&quot;: 44}, &quot;hits&quot;: 198, &quot;mode_count&quot;: 48, &quot;modes&quot;: [&quot;The Cartographer of Vanishing Roads&quot;], &quot;n&quot;: 200, &quot;unique&quot;: 28}, &quot;sol_codex&quot;: {&quot;heads&quot;: {&quot;Cartographer&quot;: 9, &quot;Cartography&quot;: 9, &quot;Orchard&quot;: 1}, &quot;hits&quot;: 18, &quot;mode_count&quot;: 4, &quot;modes&quot;: [&quot;The Cartographer of Empty Rooms&quot;, &quot;The Cartography of Silence&quot;], &quot;n&quot;: 20, &quot;unique&quot;: 10}, &quot;terra_container&quot;: {&quot;heads&quot;: {&quot;Architecture&quot;: 1, &quot;Atlas&quot;: 1, &quot;Cartographer&quot;: 17, &quot;Cartography&quot;: 1, &quot;Geometry&quot;: 3, &quot;Orchard&quot;: 26}, &quot;hits&quot;: 18, &quot;mode_count&quot;: 12, &quot;modes&quot;: [&quot;The Cartographer of Ashes&quot;], &quot;n&quot;: 50, &quot;unique&quot;: 19}, &quot;work_luna_light&quot;: {&quot;heads&quot;: {}, &quot;hits&quot;: 19, &quot;mode_count&quot;: 10, &quot;modes&quot;: [&quot;Cartography of Vanishing Things&quot;], &quot;n&quot;: 20, &quot;unique&quot;: 5}}</metadata>
+<style>text{font-family:Inter,Arial,sans-serif} .mono{font-family:ui-monospace,monospace}</style>
+<rect width="1080" height="1080" fill="#fcfbf8"/>
+<rect width="1080" height="1080" fill="#163a3c"/>
+<text x="60" y="66" font-size="34" font-weight="700" fill="#f4f0e5" >THE CARTOGRAPHER ATTRACTOR</text>
+<text x="60" y="119" font-size="25" font-weight="400" fill="#edc17b" class="mono">Invent a literary novel title. Title only.</text>
+<line x1="60" y1="149" x2="1020" y2="149" stroke="#547172"/>
+<text x="60" y="187" font-size="16" font-weight="600" fill="#c4d3ce" >SELECTED EXTREME CASE · PRIMARY / AUDITED · LOW REASONING</text>
+<text x="60" y="299" font-size="108" font-weight="700" fill="#f4f0e5" >199 / 200</text>
+<text x="679" y="238" font-size="27" font-weight="600" fill="#f4f0e5" >GPT-5.6 Luna</text>
+<text x="679" y="273" font-size="24" font-weight="400" fill="#c4d3ce" >Original Codex</text>
+<text x="679" y="305" font-size="20" font-weight="400" fill="#edc17b" >1 miss</text>
+<text x="60" y="447" font-size="108" font-weight="700" fill="#f4f0e5" >198 / 200</text>
+<text x="679" y="386" font-size="27" font-weight="600" fill="#f4f0e5" >GPT-5.6 Luna</text>
+<text x="679" y="421" font-size="24" font-weight="400" fill="#c4d3ce" >Reduced local context</text>
+<text x="679" y="453" font-size="20" font-weight="400" fill="#edc17b" >2 misses</text>
+<text x="60" y="504" font-size="40" font-weight="600" fill="#edc17b" class="mono">cartograph*</text>
+<text x="60" y="554" font-size="29" font-weight="500" fill="#f4f0e5" >28 different exact titles in each set.</text>
+<g aria-label="Claude Sonnet 5 High">
+<rect x="60" y="592" width="463" height="148" fill="none" stroke="#7c9490" rx="2"/>
+<text x="78" y="617" font-size="13" font-weight="700" fill="#c4d3ce" >MANUAL WEB</text>
+<text x="78" y="645" font-size="22" font-weight="600" fill="#f4f0e5" >Claude Sonnet 5 High</text>
+<text x="78" y="700" font-size="22" font-weight="500" fill="#edc17b" >60/60 → The Weight of …</text>
+</g>
+<g aria-label="GPT-5.6 Luna Light / ChatGPT Work">
+<rect x="557" y="592" width="463" height="148" fill="none" stroke="#7c9490" rx="2"/>
+<text x="575" y="617" font-size="13" font-weight="700" fill="#c4d3ce" >MANUAL WEB</text>
+<text x="575" y="645" font-size="22" font-weight="600" fill="#f4f0e5" >GPT-5.6 Luna Light</text>
+<text x="575" y="670" font-size="22" font-weight="600" fill="#f4f0e5" >/ ChatGPT Work</text>
+<text x="575" y="700" font-size="22" font-weight="500" fill="#edc17b" >19/20 → cartograph*</text>
+</g>
+<g aria-label="GPT-5.6 Terra / reduced-context container">
+<rect x="60" y="759" width="463" height="148" fill="none" stroke="#7c9490" rx="2"/>
+<text x="78" y="784" font-size="13" font-weight="700" fill="#c4d3ce" >LOGGED COMPARISON</text>
+<text x="78" y="812" font-size="22" font-weight="600" fill="#f4f0e5" >GPT-5.6 Terra</text>
+<text x="78" y="837" font-size="22" font-weight="600" fill="#f4f0e5" >/ reduced-context container</text>
+<text x="78" y="867" font-size="22" font-weight="500" fill="#edc17b" >Orchard 26/50 · cartograph* 18/50</text>
+</g>
+<g aria-label="Gemini 3.5 Flash-Lite">
+<rect x="557" y="759" width="463" height="148" fill="none" stroke="#7c9490" rx="2"/>
+<text x="575" y="784" font-size="13" font-weight="700" fill="#c4d3ce" >MANUAL WEB</text>
+<text x="575" y="812" font-size="22" font-weight="600" fill="#f4f0e5" >Gemini 3.5 Flash-Lite</text>
+<text x="575" y="867" font-size="22" font-weight="500" fill="#edc17b" >Architecture / Geography</text>
+<text x="575" y="892" font-size="22" font-weight="500" fill="#edc17b" >Geometry / Weight · 58/60</text>
+</g>
+<text x="60" y="955" font-size="28" font-weight="500" fill="#f4f0e5" >Why can an open-ended request produce</text>
+<text x="60" y="991" font-size="28" font-weight="500" fill="#f4f0e5" >such narrow—and different—defaults?</text>
+<text x="60" y="1033" font-size="16" font-weight="400" fill="#c4d3ce" >Observed black-box outputs. Serving conditions differ; manual Web samples are descriptive.</text>
+<text x="60" y="1059" font-size="16" font-weight="400" fill="#c4d3ce" >cartograph* is the fixed endpoint. Other families are post-hoc literal descriptions.</text>
+</svg>

@@ -1,0 +1,45 @@
+{
+  "purpose": "Sanitized saved local context evidence; not full outbound model requests or per-call attestations.",
+  "source_root": "single_model_behavior_lab (not included in this public repository)",
+  "source_sha256": {
+    "title_context_audit_20260906/audit_facts.json": "40987fcb7fe3627e7ca058d45317128cd321a5cbcafb60ff4e8d838e4a14b2c8",
+    "title_context_audit_20260906/historical_preview_layers.json": "7d05d134ee44171bea931a5289173d820cf3ad9350531695b0b1f0824f965d50",
+    "title_context_audit_20260906/context_stack_reconstruction.md": "78fc18a50ec6c0d9b752e0d6bb50ac6fd970c1ca253322011457802d11c57dd4",
+    "container_replication_20260906/audit_B.json": "0f424db13b7b22b2ffb861db9b42d734cc8984a11b6ea73f6a188a2e025a77ce",
+    "container_replication_20260906/extension_02/audit.json": "879a265b94bb8ebc1ff93a94de74db5cc200fb0c017e8942743a965e0ab91e79",
+    "container_replication_20260906/instructions_B.txt": "88056f48f5f36543d025e6d47385a5236534f84a0d0015f410051fa04f9899ca",
+    "container_replication_20260906/entry.py": "a702ad28b28f44d1773a1b943ae6687297d157c887bd85cd3c5a39bff8b0162f"
+  },
+  "export_sha256": {
+    "data/context/original_codex.md": "d93c6819004e6089736ddaf5c83d1b9818e7f540147a269e2b870c3d746b3b9a",
+    "data/context/reduced_container.md": "0326b734f22af6f53c4df2b0c788b7846e3a467bb0c9945db0237c76c18701f7"
+  },
+  "redactions": {
+    "personal host project prefix": "[HOST_PROJECT]",
+    "personal home prefix": "[HOST_HOME]",
+    "host timezone": "[HOST_TIMEZONE]"
+  },
+  "omissions": [
+    "Preview message IDs and internal metadata values",
+    "Credential/login contents and host mount details",
+    "Unrelated catalog, help, and environment inventory"
+  ],
+  "original_local_base": {
+    "characters": 17730,
+    "utf8_bytes": 17766,
+    "sha256": "a91357a1cd2727a0be06d461248d6e3a7274746e38108f548a3adf2cc2430415"
+  },
+  "reduced_local_base": {
+    "characters": 27,
+    "utf8_bytes": 27,
+    "sha256": "88056f48f5f36543d025e6d47385a5236534f84a0d0015f410051fa04f9899ca"
+  },
+  "preview_text_characters_unredacted": {
+    "original": 3421,
+    "reduced": 770
+  },
+  "preview_size_definition": "Sum of input_text string lengths; excludes JSON, metadata, separators, and separately recorded base instructions. Not a token count or full request size.",
+  "reduced_september_6_vs_7_role_content_equal_except_calendar_date": true,
+  "prompt_utf8_bytes": 42,
+  "prompt_sha256": "247f1546427aea7db0431b585095909e2c36f25a7f58749d25bd287f6dc5fa49"
+}
